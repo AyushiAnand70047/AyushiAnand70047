@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushiAnand70047&theme=dark&hide_border=true)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiAnand70047&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
