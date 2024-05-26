@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Ayushi Anand, a BTech Computer Science student at Lovely Professional University, Jalandhar, Punjab. I'm always eager to learn new technologies and push the boundaries of my knowledge.<br><br>🔭 I’m currently working on Innovative full-stack projects using the MERN stack.<br>👯 I’m looking to collaborate on Open-source projects and exciting web development initiatives.<br>🤝 I’m looking for help with Advanced algorithms and large-scale application architectures.<br>🌱 I’m currently learning In-depth concepts of DBMS, OS, Networking, and enhancing my skills in Python and SQL.<br>💬 Ask me about Full-stack development, DSA in Java, and my experience with various programming languages like C, C++ and Java.<br>⚡ Fun fact: I'm not just a coder; I'm a tech enthusiast who loves to explore and implement cutting-edge technologies!
-<br/>
-[![](https://visitcount.itsvg.in/api?id=AyushiAnand70047&icon=5&color=3)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=432534&label=Profile%20views&color=0e75b6&style=flat" alt="432534" /> </p>
 
 
 
