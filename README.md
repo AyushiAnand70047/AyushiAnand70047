@@ -43,6 +43,15 @@
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ayushianand088?theme=dark&font=Rubik&ext=heatmap" />  
 </p>
+<p align="center">
+  <a href="https://leetcode.com/u/ayushianand088/" rel="nofollow">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" alt="LeetCode 50 Days Badge">
+  </a>
+  <a href="https://leetcode.com/u/ayushianand088/" rel="nofollow">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" alt="LeetCode 100 Days Badge">
+  </a>
+</p>
+
 
 ---
 
